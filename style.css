@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka&family=Dongle&family=Kurale&family=Lobster&family=Permanent+Marker&family=Poppins:wght@300;400&family=Shippori+Antique&family=Supermercado+One&family=Yellowtail&display=swap');
+*
+{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.first_section
+{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/top-banner.png);
+    background-size: cover;
+     padding-left: 30px;
+    display: flex;
+
+  
+}
+h2{
+    font-size: 50px;
+    margin: 25px;
+}
+h3{
+    font-size: 20px;
+    margin: 25px;
+}
+p
+{
+    font-size: 20px;
+    margin: 25px;
+    color: rgb(123, 122, 122);
+}
+.title
+{
+    width: 50%;
+    padding: 30px;
+    
+}
+.title img
+{
+    width: 80%;
+}
+a
+{
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 10px 40px;
+    color: rgb(255, 253, 253);
+    font-weight: 700;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+}
